@@ -1,4 +1,4 @@
-![Github Banner](assets/github-banner.jpg)
+![Github Banner](https://drive.google.com/file/d/1_T1GAu3LRcztH7-Sk1kf4FHnGg1m7ub2)
 
 ## Hi there my awesome friend <img src="assets/hello.gif" width="28px" alt="hi">
 
