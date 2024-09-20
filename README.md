@@ -1,6 +1,6 @@
 ![Github Banner](https://drive.google.com/file/d/1_T1GAu3LRcztH7-Sk1kf4FHnGg1m7ub2)
 
-## Hi there my awesome friend <img src="assets/hello.gif" width="28px" alt="hi">
+## Hi there! <img src="https://media0.giphy.com/media/ukjroRS7Y9GLbuK1If/giphy.gif?cid=6c09b952vqronzt2u2kk92fg0fre0jwh5fbcs61fsv8mdlp7&ep=v1_stickers_related&rid=giphy.gif&ct=s" width="28px" alt="hi">
 
 I'm **Tahmid Ramim**, a 17-year-old Web Developer from <img src="assets/bangladesh.png" width="18"/> Dhaka, Bangladesh. I spend most of my time coding cool projects and learning new tech stacks.
 
