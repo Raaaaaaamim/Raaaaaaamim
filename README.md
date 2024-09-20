@@ -1,4 +1,4 @@
-![Github Banner](https://drive.google.com/u/0/drive-viewer/AKGpihYcwtH103hMcbEREPz-i-B0GKzJy4XgAX1nQuLLivPMsnbOgGHOz_oo1lMh1qoEYcUNdCrglPbvuZMCiupysBRDfHpaDBnwMek=s1600-rw-v1)
+![Github Banner](./kratos.png)
 
 ## Hi there! <img src="https://media0.giphy.com/media/ukjroRS7Y9GLbuK1If/giphy.gif?cid=6c09b952vqronzt2u2kk92fg0fre0jwh5fbcs61fsv8mdlp7&ep=v1_stickers_related&rid=giphy.gif&ct=s" width="28px" alt="hi">
 
