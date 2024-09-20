@@ -2,15 +2,15 @@
 
 ## Hi there! <img src="https://media0.giphy.com/media/ukjroRS7Y9GLbuK1If/giphy.gif?cid=6c09b952vqronzt2u2kk92fg0fre0jwh5fbcs61fsv8mdlp7&ep=v1_stickers_related&rid=giphy.gif&ct=s" width="28px" alt="hi">
 
-I'm **Tahmid Ramim**, a 17-year-old Web Developer from <img src="assets/bangladesh.png" width="18"/> Dhaka, Bangladesh. I spend most of my time coding cool projects and learning new tech stacks.
+I'm **Tahmid Ramim**, a 17-year-old Web Developer from <img src="https://i.makeagif.com/media/12-04-2017/1ew7Aj.gif" width="18"/> Dhaka, Bangladesh. I spend most of my time coding cool projects and learning new tech stacks.
 
 :coffee: &emsp;Let's connect!
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](#) [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](#) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahmidramim0@gmail.com)
 
-:hearts: &emsp;I enjoy programming and sharing ideas. <br/>
-:computer: &emsp;Most used line of code: `console.log("hello world")` <br/>
-🤔 &emsp;I’m looking for people who can help me with amazing project ideas.<br/>
+:hearts: &emsp;I enjoy programming and making websites <br/>
+:computer: &emsp;Most used line of code: `console.log("Hello")` <br/>
+🤔 &emsp;I am trying find a good project idea.<br/>
 :e-mail: &emsp;Reach me at: tahmidramim0@gmail.com.<br/>
 ⚡ &emsp;Fun fact: I'm still learning every day!
 
@@ -46,9 +46,7 @@ I'm **Tahmid Ramim**, a 17-year-old Web Developer from <img src="assets/banglade
 
 :email: &emsp;tahmidramim0@gmail.com
 
-#### Profile Visits
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=yourprofile)
 
 <details>
 <summary>
