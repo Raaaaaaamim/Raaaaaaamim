@@ -2,7 +2,7 @@
 
 ## Hi there! <img src="https://media0.giphy.com/media/ukjroRS7Y9GLbuK1If/giphy.gif?cid=6c09b952vqronzt2u2kk92fg0fre0jwh5fbcs61fsv8mdlp7&ep=v1_stickers_related&rid=giphy.gif&ct=s" width="28px" alt="hi">
 
-I'm **Tahmid Ramim**, a 17-year-old Web Developer from <img src="https://cdn-icons-png.flaticon.com/512/3973/3973498.png" width="18"/> Dhaka, Bangladesh. I spend most of my time coding cool projects and learning new tech stacks.
+I'm **Tahmid Ramim**, a Web Developer from <img src="https://cdn-icons-png.flaticon.com/512/3973/3973498.png" width="18"/> Dhaka, Bangladesh. I spend most of my time coding cool projects and learning new tech stacks.
 
 :coffee: &emsp;Let's connect!
 
