@@ -2,7 +2,7 @@
 
 ## Hi there! <img src="https://media0.giphy.com/media/ukjroRS7Y9GLbuK1If/giphy.gif?cid=6c09b952vqronzt2u2kk92fg0fre0jwh5fbcs61fsv8mdlp7&ep=v1_stickers_related&rid=giphy.gif&ct=s" width="28px" alt="hi">
 
-I'm **Tahmid Ramim**, a Web Developer from <img src="https://cdn-icons-png.flaticon.com/512/3973/3973498.png" width="18"/> Dhaka, Bangladesh. I spend most of my time coding cool projects and learning new tech stacks.
+I'm **Tahmid Ramim**, a Web Developer from <img src="https://cdn-icons-png.flaticon.com/512/3973/3973498.png" width="18"/> Dhaka, Bangladesh. I spend most of my time coding projects and learning new tech stacks.
 
 :coffee: &emsp;Let's connect!
 
@@ -12,7 +12,7 @@ I'm **Tahmid Ramim**, a Web Developer from <img src="https://cdn-icons-png.flati
 :computer: &emsp;Most used line of code: `console.log("Hello")` <br/>
 🤔 &emsp;I am trying find a good project idea.<br/>
 :e-mail: &emsp;Reach me at: tahmidramim0@gmail.com.<br/>
-⚡ &emsp;Fun fact: I'm still learning every day!
+⚡ &emsp;Fun fact: I started coding at the age of 14!
 
 #### Things I code with
 
@@ -30,8 +30,8 @@ I'm **Tahmid Ramim**, a Web Developer from <img src="https://cdn-icons-png.flati
   </thead>
   <tbody>
     <tr>
-      <td><a href="#" target="_blank">Project 1</a></td>
-      <td>A cool web development project</td>
+      <td><a href="https://github.com/Raaaaaaamim/NoteX" target="_blank">Project 1</a></td>
+      <td>A Note taking app</td>
       <td>Coming soon...</td>
     </tr>
     <tr>
