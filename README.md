@@ -32,7 +32,7 @@ I'm **Tahmid Ramim**, a Web Developer from <img src="https://cdn-icons-png.flati
     <tr>
       <td><a href="https://github.com/Raaaaaaamim/NoteX" target="_blank">Project 1</a></td>
       <td>A Note taking app</td>
-      <td>Coming soon...</td>
+      <td>Done...</td>
     </tr>
     <tr>
       <td><a href="#" target="_blank">Project 2</a></td>
