@@ -42,9 +42,7 @@ I'm **Tahmid Ramim**, a Web Developer from <img src="https://cdn-icons-png.flati
   </tbody>
 </table>
 
-#### Business
 
-:email: &emsp;tahmidramim0@gmail.com
 
 
 
