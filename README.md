@@ -2,7 +2,6 @@
 
 # Hi there! I'm Tahmid Ramim 👋
 
-[![Wanna Be Yours - Arctic Monkeys](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false&playing=Arctic%20Monkeys%20-%20Wanna%20Be%20Yours)](https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n)
 
 ## About Me 💫
 > Web Developer crafting digital experiences from Dhaka, Bangladesh 🇧🇩
@@ -59,9 +58,6 @@ class Developer {
 - **Status**: In Development
 - [Stay Tuned](#)
 
-## GitHub Stats 📊
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raaaaaaamim&show_icons=true&theme=dracula&hide_border=true&count_private=true&bg_color=0D1117)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raaaaaaamim&theme=dracula&hide_border=true&background=0D1117)
 
