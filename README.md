@@ -1,96 +1,80 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Raaaaaaamim/Raaaaaaamim/refs/heads/main/kratos.jpg" alt="Github Banner" width="100%"/>
-  
-  # Hello World! <img src="https://media0.giphy.com/media/ukjroRS7Y9GLbuK1If/giphy.gif?cid=6c09b952vqronzt2u2kk92fg0fre0jwh5fbcs61fsv8mdlp7&ep=v1_stickers_related&rid=giphy.gif&ct=s" width="28px" alt="hi">
+![Github Banner](https://raw.githubusercontent.com/Raaaaaaamim/Raaaaaaamim/refs/heads/main/kratos.jpg)
 
-  ### Building digital experiences, one line of code at a time 🚀
+# Hi there! I'm Tahmid Ramim 👋
 
-  <p>
-    <a href="mailto:tahmidramim0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-  </p>
-</div>
+[![Wanna Be Yours - Arctic Monkeys](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false&playing=Arctic%20Monkeys%20-%20Wanna%20Be%20Yours)](https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n)
 
-### 👨‍💻 About Me
+## About Me 💫
+> Web Developer crafting digital experiences from Dhaka, Bangladesh 🇧🇩
 
-```javascript
-const ramim = {
-    pronouns: "he" | "him",
-    location: "Dhaka, Bangladesh 🇧🇩",
-    currentFocus: "Building awesome web experiences",
-    funFact: "Started coding at 14! 🎯",
-    hobbies: ["Programming", "Web Development", "Learning New Tech"],
-    currentLearning: ["Advanced React Patterns", "System Design", "AWS"],
-    askMeAbout: ["Web Dev", "Tech", "Coffee ☕"],
-    reachMe: "tahmidramim0@gmail.com"
-};
+```typescript
+class Developer {
+    name: string = "Tahmid Ramim";
+    role: string = "Web Developer";
+    location: string = "Dhaka, Bangladesh";
+    languages: string[] = ["JavaScript", "TypeScript"];
+    hobbies: string[] = ["Coding", "Learning New Tech"];
+    funFact: string = "Started coding at 14!";
+    
+    sayHi() {
+        console.log("Thanks for dropping by!");
+    }
+}
 ```
 
-### 🛠️ Tech Arsenal
+## Connect With Me 🤝
+[![Gmail](https://img.shields.io/badge/Gmail-tahmidramim0@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tahmidramim0@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tahmid_Ramim-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
+[![Twitter](https://img.shields.io/badge/Twitter-@ramim-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](#)
+[![Facebook](https://img.shields.io/badge/Facebook-Tahmid_Ramim-1877F2?style=flat-square&logo=facebook&logoColor=white)](#)
 
-<div align="center">
+## Tech Stack 🛠️
 
-#### Frontend
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-![JavaScript](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-#### Backend
-![Node.js](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-</div>
+## Featured Projects 🚀
 
-### 🎯 Featured Projects
+### NoteX
+> A minimalist note-taking application built for productivity
 
-<div align="center">
+- **Tech Stack**: React, Node.js, MongoDB
+- **Features**: Real-time sync, Rich text editor, Dark mode
+- [View Project](https://github.com/Raaaaaaamim/NoteX)
 
-| Project | Description | Tech Stack | Links |
-|---------|------------|------------|-------|
-| **NoteX** | A sleek note-taking app with real-time sync | `React` `Node.js` `MongoDB` | [View Project](https://github.com/Raaaaaaamim/NoteX) |
-| **Coming Soon** | An exciting project in development | `Next.js` `TypeScript` | [Stay Tuned](#) |
+### Coming Soon
+> An exciting project in development
+- **Tech Stack**: Next.js, TypeScript
+- **Status**: In Development
+- [Stay Tuned](#)
 
-</div>
+## GitHub Stats 📊
 
-### 📈 GitHub Analytics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raaaaaaamim&show_icons=true&theme=dracula&hide_border=true&count_private=true&bg_color=0D1117)
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raaaaaaamim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Raaaaaaamim&theme=tokyonight"/>
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raaaaaaamim&theme=dracula&hide_border=true&background=0D1117)
 
-### 🎵 Currently Vibing To
-
-<div align="center">
-  
-[![Spotify](https://novatorem-navy-ten.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
-
-</div>
+## Weekly Coding Stats 💻
+```text
+JavaScript   15 hrs 40 mins  ██████████░░░░░░░░░  50.20%
+React        10 hrs 15 mins  ███████░░░░░░░░░░░░  32.70%
+TypeScript   3 hrs 25 mins   ██░░░░░░░░░░░░░░░░░   9.60%
+CSS          2 hr 15 mins    █░░░░░░░░░░░░░░░░░░   5.00%
+Other        45 mins         ░░░░░░░░░░░░░░░░░░░   2.50%
+```
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=Raaaaaaamim&color=blueviolet)
 
-<div align="center">
-  
-📊 **Weekly Development Breakdown**
-  
-<!--START_SECTION:waka-->
-```text
-JavaScript   12 hrs 40 mins  ████████████░░░░░░░  50.20%
-React        8 hrs 15 mins   ███████░░░░░░░░░░░░  32.70%
-TypeScript   2 hrs 25 mins   ██░░░░░░░░░░░░░░░░░   9.60%
-CSS          1 hr 15 mins    █░░░░░░░░░░░░░░░░░░   5.00%
-Other        37 mins         ░░░░░░░░░░░░░░░░░░░   2.50%
-```
-<!--END_SECTION:waka-->
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Raaaaaaamim&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
-</p>
-
-</div>
-
+*"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler*
