@@ -1,4 +1,4 @@
-![Github Banner](https://raw.githubusercontent.com/Raaaaaaamim/Raaaaaaamim/refs/heads/main/kratos.jpg)
+![Github Banner](https://raw.githubusercontent.com/Raaaaaaamim/Raaaaaaamim/refs/heads/main/banner.jpeg)
 
 # Hi there! I'm Tahmid Ramim 👋
 
