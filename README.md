@@ -59,7 +59,6 @@ class Developer {
 - [Stay Tuned](#)
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raaaaaaamim&theme=dracula&hide_border=true&background=0D1117)
 
 ## Weekly Coding Stats 💻
 ```text
