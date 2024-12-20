@@ -1,64 +1,151 @@
-![Github Banner](https://raw.githubusercontent.com/Raaaaaaamim/Raaaaaaamim/refs/heads/main/kratos.jpg)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tahmid Ramim</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            margin: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            background-color: #f0f0f0;
+        }
 
-# Hi there! <img src="https://media0.giphy.com/media/ukjroRS7Y9GLbuK1If/giphy.gif?cid=6c09b952vqronzt2u2kk92fg0fre0jwh5fbcs61fsv8mdlp7&ep=v1_stickers_related&rid=giphy.gif&ct=s" width="40px" alt="hi">
+        .container {
+            text-align: center;
+            width: 80%;
+            max-width: 800px;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
 
-I'm **Tahmid Ramim**, a passionate Web Developer from <img src="https://cdn-icons-png.flaticon.com/512/3973/3973498.png" width="18"> Dhaka, Bangladesh. I spend most of my time coding projects and exploring cutting-edge tech.
+        h1 {
+            margin-bottom: 20px;
+        }
 
----
+        img {
+            border-radius: 50%;
+            margin-bottom: 20px;
+        }
 
-## :coffee: Let's Connect!
+        p {
+            margin-bottom: 15px;
+        }
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](#)
-[![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](#)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
-[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahmidramim0@gmail.com)
+        .social-icons {
+            display: flex;
+            justify-content: center;
+            margin-bottom: 20px;
+        }
 
----
+        .social-icon {
+            margin: 0 10px;
+        }
 
-## About Me
+        .skills {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
 
-:hearts: I enjoy programming and building cool websites.<br>
-:computer: Most used line of code: <code>console.log("Hello")</code><br>
-🤔 Always brainstorming new project ideas.<br>
-📫 Reach me at: [tahmidramim0@gmail.com](mailto:tahmidramim0@gmail.com)<br>
-⚡ Fun fact: I started coding at 14 and never looked back!
+        .skill-badge {
+            margin: 5px;
+        }
 
----
+        .projects {
+            margin-top: 30px;
+        }
 
-## 🚀 Things I Code With
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
 
-![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![Next.js Badge](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
+        th, td {
+            border: 1px solid #ddd;
+            padding: 10px;
+            text-align: left;
+        }
 
----
+        th {
+            background-color: #f2f2f2;
+        }
 
-## 📂 Projects & Ventures
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
 
-| Projects      | Description                                    | Status       |
-|---------------|------------------------------------------------|--------------|
-| [NoteX](https://github.com/Raaaaaaamim/NoteX) | A powerful note-taking app with user-friendly design | Completed    |
-| [Project 2](#) | Another exciting project                      | Coming soon... |
+        a:hover {
+            text-decoration: underline;
+        }
 
----
+        /* Custom CSS for more styling */
+        /* ... */
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Tahmid Ramim</h1>
+        <img src="your_profile_picture.jpg" alt="Profile Picture" width="150">
+        <p>Web Developer from Dhaka, Bangladesh.</p>
+        <p>I spend most of my time coding projects and learning new tech stacks.</p>
 
-<details>
-<summary>✨ Want to know more about me?</summary>
+        <div class="social-icons">
+            <a href="#" class="social-icon"><img src="facebook_icon.svg" alt="Facebook"></a>
+            <a href="#" class="social-icon"><img src="youtube_icon.svg" alt="YouTube"></a>
+            <a href="#" class="social-icon"><img src="linkedin_icon.svg" alt="LinkedIn"></a>
+            <a href="#" class="social-icon"><img src="instagram_icon.svg" alt="Instagram"></a>
+            <a href="#" class="social-icon"><img src="twitter_icon.svg" alt="Twitter"></a>
+            <a href="mailto:tahmidramim0@gmail.com" class="social-icon"><img src="gmail_icon.svg" alt="Gmail"></a>
+        </div>
 
-I love sharing knowledge and working on meaningful projects to help others grow!
+        <p><strong>I enjoy programming and making websites.</strong></p>
+        <p><strong>Most used line of code:</strong> <code>console.log("Hello")</code></p>
+        <p><strong>I am trying to find a good project idea.</strong></p>
+        <p><strong>Reach me at:</strong> <a href="mailto:tahmidramim0@gmail.com">tahmidramim0@gmail.com</a></p>
+        <p><strong>Fun fact:</strong> I started coding at the age of 14!</p>
 
-### 📊 Github Stats
+        <div class="skills">
+            <img src="javascript_badge.svg" alt="JavaScript" class="skill-badge">
+            <img src="typescript_badge.svg" alt="TypeScript" class="skill-badge">
+            <img src="react_badge.svg" alt="React" class="skill-badge">
+            <img src="nextjs_badge.svg" alt="Next.js" class="skill-badge">
+            <img src="nodejs_badge.svg" alt="Node.js" class="skill-badge">
+            <img src="expressjs_badge.svg" alt="Express.js" class="skill-badge">
+            <img src="mongodb_badge.svg" alt="MongoDB" class="skill-badge">
+            <img src="tailwindcss_badge.svg" alt="Tailwind CSS" class="skill-badge">
+        </div>
 
-![Raaaaaaamim's Github Stats](https://github-readme-stats.vercel.app/api?username=yourusername&count_private=true&theme=tokyonight&hide=contribs,prs)
+        <div class="projects">
+            <h2>My Projects</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Project</th>
+                        <th>Description</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><a href="https://github.com/Raaaaaaamim/NoteX" target="_blank">Project 1</a></td>
+                        <td>A Note taking app</td>
+                    </tr>
+                    <tr>
+                        <td><a href="#" target="_blank">Project 2</a></td>
+                        <td>Another exciting project</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
 
-![Raaaaaaamim's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)
-
-</details>
-
+    </div>
+</body>
+</html>
