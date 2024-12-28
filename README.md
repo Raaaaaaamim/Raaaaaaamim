@@ -1,35 +1,34 @@
 ![Github Banner](https://raw.githubusercontent.com/Raaaaaaamim/Raaaaaaamim/refs/heads/main/banner.jpeg)
 
-# Hi there! I'm Tahmid Ramim 👋
+# Yo! What's good? I'm Tahmid Ramim 👋🔥
 
-
-## About Me 💫
-> Web Developer crafting digital experiences from Dhaka, Bangladesh 🇧🇩
+## The TL;DR About Me ✨
+> Just your friendly neighborhood code wizard from Dhaka, Bangladesh 🇧🇩 
+> Turning ☕ into `<code/>` since 2014
 
 ```typescript
-class Developer {
+class CodeWizard {
     name: string = "Tahmid Ramim";
-    role: string = "Web Developer";
-    location: string = "Dhaka, Bangladesh";
-    languages: string[] = ["JavaScript", "TypeScript"];
-    hobbies: string[] = ["Coding", "Learning New Tech"];
-    funFact: string = "Started coding at 14!";
+    currentRole: string = "Frontend Sorcerer";
+    baseLocation: string = "Dhaka, Bangladesh";
+    stack: string[] = ["JavaScript", "TypeScript", "React"];
+    lifestyle: string[] = ["Coffee", "Code", "Repeat"];
+    funFact: string = "Been pushing pixels since I was 14 (pretty sus, right?)";
     
-    sayHi() {
-        console.log("Thanks for dropping by!");
+    vibe() {
+        console.log("Thanks for sliding into my GitHub! 🚀");
     }
 }
 ```
 
-## Connect With Me 🤝
-[![Gmail](https://img.shields.io/badge/Gmail-tahmidramim0@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tahmidramim0@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tahmid_Ramim-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-@ramim-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](#)
-[![Facebook](https://img.shields.io/badge/Facebook-Tahmid_Ramim-1877F2?style=flat-square&logo=facebook&logoColor=white)](#)
+## Let's Connect & Vibe 🌟
+[![Gmail](https://img.shields.io/badge/Shoot_a_Message-tahmidramim0@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tahmidramim0@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-Tahmid_Ramim-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Raaaaaaamim)
+[![Twitter](https://img.shields.io/badge/Drop_a_Follow-@ramim-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Raaaaaaamim)
+[![Facebook](https://img.shields.io/badge/Say_Hi-Tahmid_Ramim-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/Raaaaaaamim)
 
-## Tech Stack 🛠️
-
-### Frontend Development
+## My Weapon Arsenal 🚀
+### Frontend Magic ✨
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -38,38 +37,36 @@ class Developer {
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend Development
+### Backend Vibes 🎵
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## Featured Projects 🚀
+## Projects That Slap 💫
+### NoteX 📝
+> Your thoughts, but make it ✨aesthetic✨
+- **Stack**: React + Node.js + MongoDB (the holy trinity fr fr)
+- **Features**: Real-time syncing (because who has time to refresh?), Rich text editor (fancy stuff only), Dark mode (for the vampires)
+- [Check it out](https://github.com/Raaaaaaamim/NoteX)
 
-### NoteX
-> A minimalist note-taking application built for productivity
+### Something Epic Loading... 👀
+> Trust the process fam
+- **Stack**: Next.js + TypeScript (keeping it bussin')
+- **Status**: Cooking something fire 🔥
+- [Stay posted](https://github.com/Raaaaaaamim)
 
-- **Tech Stack**: React, Node.js, MongoDB
-- **Features**: Real-time sync, Rich text editor, Dark mode
-- [View Project](https://github.com/Raaaaaaamim/NoteX)
-
-### Coming Soon
-> An exciting project in development
-- **Tech Stack**: Next.js, TypeScript
-- **Status**: In Development
-- [Stay Tuned](#)
-
-
-
-## Weekly Coding Stats 💻
+## This Week's Grind 💪
 ```text
-JavaScript   15 hrs 40 mins  ██████████░░░░░░░░░  50.20%
-React        10 hrs 15 mins  ███████░░░░░░░░░░░░  32.70%
-TypeScript   3 hrs 25 mins   ██░░░░░░░░░░░░░░░░░   9.60%
-CSS          2 hr 15 mins    █░░░░░░░░░░░░░░░░░░   5.00%
-Other        45 mins         ░░░░░░░░░░░░░░░░░░░   2.50%
+JavaScript   15 hrs 40 mins  ██████████░░░░░░░░░  50.20% (no cap)
+React        10 hrs 15 mins  ███████░░░░░░░░░░░░  32.70% (straight bussin)
+TypeScript   3 hrs 25 mins   ██░░░░░░░░░░░░░░░░░   9.60% (type safety go brr)
+CSS          2 hr 15 mins    █░░░░░░░░░░░░░░░░░░   5.00% (making it pretty)
+Other        45 mins         ░░░░░░░░░░░░░░░░░░░   2.50% (vibing)
 ```
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=Raaaaaaamim&color=blueviolet)
 
-*"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler*
+*"Good code is like a good joke - if you have to explain it, it's bad" - Some wise dev probably*
+
+> Currently vibing to: Spotify API integration coming soon... 👀
