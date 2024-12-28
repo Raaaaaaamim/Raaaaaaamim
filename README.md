@@ -69,4 +69,4 @@ Other        45 mins         ░░░░░░░░░░░░░░░░░
 
 *"Good code is like a good joke - if you have to explain it, it's bad" - Some wise dev probably*
 
-> Currently vibing to: Spotify API integration coming soon... 👀
+> Currently vibing to: Anime website coming soon... 👀
