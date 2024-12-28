@@ -4,7 +4,7 @@
 
 ## The TL;DR About Me ✨
 > Just your friendly neighborhood code wizard from Dhaka, Bangladesh 🇧🇩 
-> Turning ☕ into `<code/>` since 2014
+> Turning ☕ into `<code/>` since 2021
 
 ```typescript
 class CodeWizard {
