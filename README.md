@@ -21,14 +21,14 @@ class CodeWizard {
 }
 ```
 
-## Let's Connect & Vibe 🌟
+## Let's Connect  🌟
 [![Gmail](https://img.shields.io/badge/Shoot_a_Message-tahmidramim0@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tahmidramim0@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-Tahmid_Ramim-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Raaaaaaamim)
 [![Twitter](https://img.shields.io/badge/Drop_a_Follow-@ramim-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Raaaaaaamim)
 [![Facebook](https://img.shields.io/badge/Say_Hi-Tahmid_Ramim-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/Raaaaaaamim)
 
 ## My Weapon Arsenal 🚀
-### Frontend Magic ✨
+### Frontend  ✨
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -37,7 +37,7 @@ class CodeWizard {
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend Vibes 🎵
+### Backend 
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -69,4 +69,4 @@ Other        45 mins         ░░░░░░░░░░░░░░░░░
 
 *"Good code is like a good joke - if you have to explain it, it's bad" - Some wise dev probably*
 
-> Currently vibing to: Anime website coming soon... 👀
+> Currently working on: Anime website coming soon... 👀
