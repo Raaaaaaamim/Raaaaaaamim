@@ -44,7 +44,7 @@ class CodeWizard {
 
 ## Projects That Slap 💫
 ### NoteX 📝
-> Your thoughts, but make it ✨aesthetic✨
+> Your thoughts?, just create a note
 - **Stack**: React + Node.js + MongoDB (the holy trinity fr fr)
 - **Features**: Real-time syncing (because who has time to refresh?), Rich text editor (fancy stuff only), Dark mode (for the vampires)
 - [Check it out](https://github.com/Raaaaaaamim/NoteX)
@@ -69,4 +69,4 @@ Other        45 mins         ░░░░░░░░░░░░░░░░░
 
 *"Good code is like a good joke - if you have to explain it, it's bad" - Some wise dev probably*
 
-> Currently working on: Anime website coming soon... 👀
+> Currently working on: (CookedGPT) coming soon... 👀
