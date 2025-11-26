@@ -61,18 +61,9 @@ class DevProfile {
 - **Status:** In development  
 - [Github profile](https://github.com/Raaaaaaamim)
 
----
 
-## This week's focus
-```text
-JavaScript   15 hrs 40 mins  ██████████░░░░░░░░░  50.20%
-React        10 hrs 15 mins  ███████░░░░░░░░░░░░  32.70%
-TypeScript   3 hrs 25 mins   ██░░░░░░░░░░░░░░░░░   9.60%
-CSS          2 hrs 15 mins    █░░░░░░░░░░░░░░░░░░   5.00%
-Other        45 mins         ░░░░░░░░░░░░░░░░░░░   2.50%
-```
 
----
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Raaaaaaamim&color=blueviolet)
 
