@@ -76,8 +76,8 @@ class DevProfile {
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Raaaaaaamim&color=blueviolet)
 
-> "Good code is like a good joke — if you have to explain it, it's not good."
+> "Good code is like a good joke, if you have to explain it, it's not good."
 
-**Currently working on:** CookedGPT — coming soon.
+**Currently working on:** CookedGPT. coming soon.
 
 </div>
