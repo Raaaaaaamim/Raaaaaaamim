@@ -4,8 +4,6 @@
 
 # Hey, I'm Tahmid Ramim 👋
 
-
-<br/>
 <br/>
 
 > Developer based in Dhaka, Bangladesh 🇧🇩  
