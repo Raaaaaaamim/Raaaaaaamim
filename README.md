@@ -1,6 +1,6 @@
 ![Github Banner](https://raw.githubusercontent.com/Raaaaaaamim/Raaaaaaamim/refs/heads/main/banner.jpeg)
 
-# Hey — I'm Tahmid Ramim 👋
+# Hey, I'm Tahmid Ramim 👋
 
 ## Quick intro
 > Developer based in Dhaka, Bangladesh 🇧🇩  
@@ -27,9 +27,7 @@ class DevProfile {
 [![Twitter](https://img.shields.io/badge/Twitter-@ramim-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Raaaaaaamim)
 [![Facebook](https://img.shields.io/badge/Facebook-Tahmid_Ramim-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/Raaaaaaamim)
 
----
 
-## Tech stack
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -55,7 +53,7 @@ class DevProfile {
 - **Highlights:** Real-time sync, rich text editing, dark mode  
 - [Repository → NoteX](https://github.com/Raaaaaaamim/NoteX)
 
-### Something Epic — WIP 👀
+### Something Epic 👀
 > Working on a Next.js + TypeScript project. More details soon.
 - **Stack:** Next.js + TypeScript  
 - **Status:** In development  
