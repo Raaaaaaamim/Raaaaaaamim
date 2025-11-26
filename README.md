@@ -59,7 +59,7 @@ class DevProfile {
 
 ## Projects
 
-### NoteX — Notes made simple 📝
+### NoteX | Notes made simple 📝
 > Simple, reliable note-taking with syncing and a clean UI.
 - **Stack:** React + Node.js + MongoDB  
 - **Highlights:** Real-time sync, rich text editing, dark mode  
