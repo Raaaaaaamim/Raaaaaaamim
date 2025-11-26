@@ -4,10 +4,9 @@
 
 # Hey, I'm Tahmid Ramim 👋
 
-## Intro
+## Quick intro
 > Developer based in Dhaka, Bangladesh 🇧🇩  
 > I build frontend experiences and ship practical code.
-
 
 </div>
 
