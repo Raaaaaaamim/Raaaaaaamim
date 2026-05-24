@@ -1,38 +1,29 @@
 ![Github Banner](https://raw.githubusercontent.com/Raaaaaaamim/Raaaaaaamim/refs/heads/main/banner.jpeg)
 
-# Hi, I'm Tahmid Ramim 🇧🇩
+# Tahmid Ramim
 
-I'm a **Frontend Developer** based in Dhaka, Bangladesh. I focus on building clean, performant web experiences and shipping practical code. I've been designing and coding since I was 14.
+Frontend developer based in Dhaka, Bangladesh. I build interfaces with React, TypeScript, and Tailwind.
 
-[Email](mailto:tahmidramim0@gmail.com) • [LinkedIn](https://linkedin.com/in/Raaaaaaamim) • [Twitter](https://twitter.com/Raaaaaaamim)
-
----
-
-### 🛠️ Tech Stack
-
-- **Frontend:** JavaScript, TypeScript, React, Next.js, HTML5, CSS3, TailwindCSS
-- **Backend & Database:** Node.js, Express.js, MongoDB
+**Current focus:** A Next.js project (details soon).
 
 ---
 
-### 🚀 Projects
+### Projects
 
-#### [NoteX](https://github.com/Raaaaaaamim/NoteX) — Notes made simple
-A reliable, minimalist note-taking application with seamless syncing.
-- **Stack:** React • Node.js • MongoDB • TailwindCSS
-- **Key Features:** Real-time sync, rich text editing, dark mode
-
-#### CookedGPT — *Coming Soon*
-An upcoming project pushing the boundaries of my frontend stack.
-- **Stack:** Next.js • TypeScript
+**NoteX** — Simple note-taking with sync and clean UI  
+Stack: React, Node.js, MongoDB  
+[github.com/Raaaaaaamim/NoteX](https://github.com/Raaaaaaamim/NoteX)
 
 ---
 
-### 📊 Stats & Tools
+### Tech I use
 
-⚡ **Currently working on:** CookedGPT  
-☕ **Lifestyle:** Coffee, Code, Repeat
+JavaScript · TypeScript · React · Next.js · Tailwind CSS · Node.js · Express · MongoDB
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Raaaaaaamim&color=slate&style=flat-square" alt="Profile Views" />
-</p>
+---
+
+### Contact
+
+- Email: [tahmidramim0@gmail.com](mailto:tahmidramim0@gmail.com)
+- LinkedIn: [linkedin.com/in/Raaaaaaamim](https://linkedin.com/in/Raaaaaaamim)
+- Twitter: [@Raaaaaaamim](https://twitter.com/Raaaaaaamim)
