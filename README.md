@@ -16,13 +16,13 @@
 
 </div>
 
----
+
 
 ## About Me
 
 I'm a full-stack developer based in Dhaka, Bangladesh. I focus on writing clean, maintainable code and building practical applications across the web stack, primarily working within the JavaScript and TypeScript ecosystem.
 
----
+
 
 ## Skills & Technologies
 
@@ -32,25 +32,3 @@ I'm a full-stack developer based in Dhaka, Bangladesh. I focus on writing clean,
 
 **Tools:** ![OpenAI](https://www.shieldcn.dev/badge/-OpenAI-412991.svg?logo=openai&variant=branded&size=xs&font=fira-code) ![ESLint](https://www.shieldcn.dev/badge/-ESLint-4B32C3.svg?logo=eslint&variant=branded&size=xs&font=fira-code)
 
----
-
-## Projects
-
-### 📝 [NoteX](https://github.com/Raaaaaaamim/NoteX)
-A full-stack note-taking web application featuring note grouping and a MongoDB database.
-
-### 🎬 [Aniheaven](https://github.com/Raaaaaaamim/Aniheaven)
-An anime streaming platform featuring user authentication, profile management, and activity notifications.
-
----
-
-## Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raaaaaaamim&show_icons=true&theme=transparent&hide_border=true&title_color=2563eb&icon_color=3b82f6&text_color=9ca3af" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raaaaaaamim&layout=compact&theme=transparent&hide_border=true&title_color=2563eb&text_color=9ca3af" alt="Top Languages" width="48%" />
-</p>
-
----
-<div align="center">
-<sub>Badges generated via [shieldcn](https://shieldcn.dev/gen/profile)</sub>
-</div>
